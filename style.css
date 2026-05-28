@@ -1,11 +1,22 @@
-body{text-align: center;
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
     background-color: pink;}
+
 img{width: 250px;}
+
 p{color: rgb(244, 67, 138);}
-h1{color:rgb(111, 42, 208);}
+
+h1{color:rgb(174, 87, 236);}
+
 h2, h3{color:aqua}
+
 .cartaoroger{
-    width: 40%;
-    background-color: aquamarine;
+    width: 50%;
+    background-color: rgb(251, 220, 143);
     margin: auto;
+    border-radius: 15%;
 }
