@@ -1,10 +1,12 @@
+/*não meche com as cores do meu site, seu newba*/
 body{
     display: flex;
     height: 100vh;
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: pink;}
+    background-color: pink;   
+}
 
 img{width: 250px;}
 
@@ -15,8 +17,9 @@ h1{color:rgb(174, 87, 236);}
 h2, h3{color:aqua}
 
 .cartaoroger{
-    width: 50%;
+    width: 45%;
     background-color: rgb(251, 220, 143);
     margin: auto;
     border-radius: 15%;
+    border-style:dashed;
 }
